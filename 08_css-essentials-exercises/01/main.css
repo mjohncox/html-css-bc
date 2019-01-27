@@ -1,0 +1,11 @@
+div {
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+  border-radius: 100px;
+  border: 20px groove red;
+  background-image: url("https://lh3.googleusercontent.com/5G7yq_kpjC02Eb_RKix-5nsFVHvh5o7thUiY32Lcg9npMVtgHvBSUQcbrJyOviq8XBeAmMv9rrSlCDnw-yGibc2UhvwdX8vxLwjKfp50QkomrZBVuWtTgS5QOqBK8ivYwnaH2_VnS71fjfwyqSHC_SwVvvRmR-PDBWu_72nV0WBNtjojNXS5kR_0gpZ6JWcPfGfiGMr9d8_g-6EIdYVhMcCqJBT6cmVxZQpPMiPyQ92TYwEK3o8zhKPdScgHG2ir5PQI2_6wYvtV0PKDW8OeSqOZOC33ZYrKy8YdG7AeGnpdrcPbcWGZMhLuO245xLjD58H316H7Ogwt-S_sr1XmTe40ZFDsnoO8_wRzqmC62BgOMT1Se5nAU7Sb4uniAW9EKj8-ZrdtLmItr_VSCPg1YXWEKItCyJRbJjfEQq589gzMhZJg0NYd8bW8ZrJXShMS1H8POVvS3TvBZDvpAnfPtcpyk--CyhY8GbUCkqjhbb3kwo87KlRNpwsd8Yxqm0NdcyILVu2tluFkzO6yGsRNHivCuMxrL3B4iw7YfrkE8Cis-L4bgNnY9Qx6MNd0XWlmlK2RMlKH6g5fdUsQ_7M2pRfCLDnws1M2VPIz9JHk-PaHE4a1wTpSMsz9cZcwrKNG3zgkEt7oNPbVjmfG7mF4GhUpMg=w689-h918-no");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
