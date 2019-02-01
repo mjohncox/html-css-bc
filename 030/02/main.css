@@ -7,15 +7,15 @@ div {
   display: inline-block;
 }
 
-.col1 {
+.type1 {
   background-color: red;
 }
-.col2 {
+.type2 {
   background-color: blue;
 }
-.col3 {
+.type3 {
   background-color: yellow;
 }
-.col4 {
+.type4 {
   background-color: green;
 }
