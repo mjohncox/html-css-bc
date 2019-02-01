@@ -1,0 +1,21 @@
+div {
+  border: 1px solid black;
+  width: 10rem;
+  height: 5rem;
+  border-radius: 3rem;
+  box-sizing: border-box;
+  display: inline-block;
+}
+
+.col1 {
+  background-color: red;
+}
+.col2 {
+  background-color: blue;
+}
+.col3 {
+  background-color: yellow;
+}
+.col4 {
+  background-color: green;
+}
