@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+div {
+  height: 10rem;
+  width: 10rem;
+  border: dashed red;
+}

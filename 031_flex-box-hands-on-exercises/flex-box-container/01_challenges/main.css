@@ -1,0 +1,13 @@
+body, div {
+  display: flex;
+}
+
+body {
+  flex-direction: row-reverse;
+}
+
+div {
+  height: 10rem;
+  width: 10rem;
+  border: dashed red;
+}

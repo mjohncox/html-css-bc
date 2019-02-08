@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div {
+  height: 10rem;
+  width: 10rem;
+  border: dashed red;
+}

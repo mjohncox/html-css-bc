@@ -1,0 +1,14 @@
+div {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+nav {
+  width: 15%;
+}
+article {
+  width: 70%;
+}
+aside {
+  width: 15%;
+}

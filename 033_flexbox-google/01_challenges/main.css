@@ -1,0 +1,21 @@
+.html {
+    font-size: 2rem;
+}
+
+body {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 4px solid black;
+}
+
+.item001, .item002, .item003, .item004, .item005, .item006, .item007 {
+  display:;
+  height: 4rem;
+  width: 100%;
+  border: dashed red;
+  text-align: center;
+
+}

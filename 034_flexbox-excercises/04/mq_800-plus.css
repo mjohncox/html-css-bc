@@ -1,0 +1,29 @@
+
+header, footer {
+  width: 100%;
+}
+
+header {
+  order: 1;
+}
+
+article {
+  width: 70%;
+  order: 3;
+}
+
+aside {
+  width: 15%;
+}
+
+#as1 {
+  order: 2;
+}
+
+#as2 {
+  order: 4;
+}
+
+footer {
+  order: 5;
+}

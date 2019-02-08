@@ -1,0 +1,26 @@
+header, article, aside, footer {
+  text-align: center;
+  font-weight: bold;
+  padding: 10px 0;
+}
+
+header {
+  background: #ff6300;
+}
+
+article {
+  background: #03a9f4;
+}
+
+#as1 {
+  background: yellow;
+  
+}
+
+#as2 {
+  background: #ff58d8;
+}
+
+footer {
+  background: #8aef94;
+}
