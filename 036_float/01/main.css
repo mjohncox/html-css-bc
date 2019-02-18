@@ -1,0 +1,14 @@
+body {
+  height: 50rem;
+  border: 5px solid red;
+}
+
+div {
+  height: 20rem;
+  width: 20rem;
+  border: 2px solid green;
+  background-image:url("surf-sayulita-punta-de-mita.jpg");
+  background-position: center;
+  float: left;
+  margin: 2rem;
+}

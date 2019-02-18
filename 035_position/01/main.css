@@ -1,0 +1,18 @@
+html, body, footer {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+footer {
+  display: block;
+  border: 2px solid red;
+  height: 3rem;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background: #ff8d8d;
+
+
+}

@@ -1,0 +1,19 @@
+body {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+  height: 1000px;
+}
+
+div {
+  box-sizing: border-box;
+
+  width: 100%;
+
+  font-size: 20rem;
+  color: white;
+  text-align: center;
+
+}

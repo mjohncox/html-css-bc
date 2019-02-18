@@ -1,0 +1,41 @@
+html, body, section, div {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+
+}
+
+section {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 45rem;
+  width: 75%;
+  border: 2px solid black;
+
+
+}
+
+
+
+div {
+  border: 2px solid red;
+  height: 15rem;
+  width: 15rem;
+  background: #ff8d8d;
+}
+
+#two {
+  position: relative;
+  top: 2rem;
+  left: 2rem;
+}

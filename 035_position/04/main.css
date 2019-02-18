@@ -1,0 +1,30 @@
+html, body, div {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  position: relative;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+#left {
+  position: absolute;
+  height: 40rem;
+  width: 10rem;
+  border: 2px solid red;
+
+}
+
+#right {
+  margin-left: 10rem;
+  left: 50rem;
+  height: 40rem;
+  width: 40rem;
+  border: 2px solid black;
+}

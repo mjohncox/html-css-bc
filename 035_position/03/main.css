@@ -1,0 +1,28 @@
+html, body, div {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+div {
+  border: 2px solid red;
+  }
+
+#papa {
+  position: relative;
+  height: 40rem;
+  width: 40rem;
+  background: #e06a45;
+}
+
+#son {
+  height: 7rem;
+  width: 7rem;
+  position: absolute;
+  top: 8rem;
+  right: 1rem;
+  background: #f15298;
+}

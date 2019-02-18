@@ -1,0 +1,22 @@
+
+body, div {
+    padding: 0;
+    border: 0;
+    margin: 0;
+
+}
+
+div {
+  box-sizing: border-box;
+  width: 800px;
+  height: 1000px;
+  /* margin: 4rem solid black; */
+  padding: 2rem;
+  border: 2rem solid black;
+  background-color: #6767fd;
+  background-image: url("../dog.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-origin: content-box;
+  color: whitesmoke;
+}
